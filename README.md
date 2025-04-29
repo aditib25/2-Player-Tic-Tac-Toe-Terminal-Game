@@ -10,7 +10,7 @@ A simple **Tic Tac Toe** game for two players, built using Python.
 - Automatic win/draw detection
 
 ## Preview
-![Tic Tac Toe Game Preview](Tic_Tac_Toe_Game_Preview.png)
+![Tic Tac Toe Game Preview](Tic%20Tac%20Toe%20Game%20Preview.png)
 
 ## Future Improvements
 
